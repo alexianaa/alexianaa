@@ -12,10 +12,6 @@
 </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alex-Python" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Alex-Python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img height="100em" align="right" alt="Gif" src="https://media2.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47zsfeaxfkis8vrqqcxtc3charyn1feon96dhd7sqa&rid=giphy.gif&ct=g">
 </div>
  
