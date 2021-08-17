@@ -1,8 +1,9 @@
 ### Olá 👋
 
-- 👩‍🎓 Estudando engenharia de software
-- 👩‍💻 Aprendendo python e C
+- 👩‍🎓 Estudando engenharia de software na UnB
+- 👩‍💻 Aprendendo programação
 - 📫 Contate-me no email: alexiasilvacardosoo@gmail.com 
+- 🔉 Falo e escrevo em inglês e português
 - 👡 Pronouns: ela/dela
 
  <div>
