@@ -1,7 +1,8 @@
 ### Olá 👋
 
 - 👩‍🎓 Estudando engenharia de software na UnB
-- 👩‍💻 Aprendendo programação
+- 👔 Trainee da Orc'estra, empresa júnior da FGA
+- 👩‍💻 Aprendendo a programar de tudo um pouco
 - 📫 Contate-me no email: alexiasilvacardosoo@gmail.com 
 - 🔉 Falo e escrevo em inglês e português
 - 👡 Pronouns: ela/dela
