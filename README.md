@@ -1,7 +1,6 @@
 ### Olá 👋
 
 - 👩‍🎓 Estudando engenharia de software na UnB
-- 👔 Membro da Orc'estra Gamificação, empresa júnior da UnB
 - 📫 Contate-me no email: alexiasilvacardosoo@gmail.com 
 - 🔉 Falo e escrevo em inglês e português
 - 👡 Pronouns: ela/dela
