@@ -1,6 +1,6 @@
 ## Olá 👋
 
-### Desenvolvedora php
+### Desenvolvedora Fullstack PHP
 
 - 👩‍🎓 Estudando engenharia de software na UnB
 - 📫 Contate-me no email: alexiasilvacardosoo@gmail.com 
